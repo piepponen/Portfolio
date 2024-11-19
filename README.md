@@ -11,7 +11,7 @@ I approach testing with a focus on precision, efficiency, and continuous improve
 
 
 About me:
-I’m currently working as an Android QA Engineer at Ivi (online cinema with 50 mln MAU )
+I’m currently working as 
 😌 Finished functional software testing course
 ☕ Right now I am learning how to automate tests with Java
 🐈‍⬛ Most of my study cases are available on Github
